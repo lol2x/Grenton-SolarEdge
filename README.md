@@ -4,6 +4,7 @@ Integracja falownika SolarEdge przy użyciu Grenton Gate_HTTP
 
 ## Wymagania
 
+* Falownik SolarEdge z licznikiem eksportu
 * Firmware na CLU > v5.07
 * Klucz API i numer instalacji - do zdobycia po zalogowaniu do instalacji na https://monitoring.solaredge.com/ w zakładce Administrator -> Dostęp do instalacji -> Dostęp do interfejsu API
 
